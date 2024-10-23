@@ -23,7 +23,7 @@
 ### Contact:
 
 <div><br>
-  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/gust4voss)" target="_blank">
+  <a <a href="https://www.linkedin.com/in/gust4voss" target="_blank">
     <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
   <a href="mailto:salesgustavo003@gmail.com">
