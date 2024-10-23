@@ -23,10 +23,10 @@
 ### Contact:
 
 <div><br>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/gust4voss)" target="_blank">
     <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:salesgustavo003@gmail.com">
     <img align="center" alt="Gmail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
   </a>
   <a href="https://wa.me/5533998268519" target="_blank">
