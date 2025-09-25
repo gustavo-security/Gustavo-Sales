@@ -31,8 +31,8 @@
 ### Contact:
 
 <div><br>
-  <a href="https://www.linkedin.com/in/gust4voss" target="_blank">
-    <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  <a href="https://www.linkedin.com/in/gustavo-sales-santos/" target="_blank">
+    <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> 
   </a>
   <a href="mailto:salesgustavo003@gmail.com">
     <img align="center" alt="Gmail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
