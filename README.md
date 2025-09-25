@@ -1,12 +1,15 @@
-<h1 align="center">Hello World! I'm Gustavo — Computer Science student with a focus on Cybersecurity & Ethical Hacking. Welcome to my GitHub!
+<h1 align="center">
+  Hello World! I'm Gustavo — Computer Science student with a focus on Cybersecurity & Ethical Hacking. Welcome to my GitHub!
 </h1>
 
 <div align="center">
   <a href="https://github.com/gustavo-security">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-security&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-security&show_icons=true&theme=dark&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-security&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
+
+---
 
 ### Languages and Tools:
 
@@ -23,22 +26,24 @@
   <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
+---
 
 ### Contact:
 
 <div><br>
-  <a <a href="https://www.linkedin.com/in/gust4voss" target="_blank">
+  <a href="https://www.linkedin.com/in/gust4voss" target="_blank">
     <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
   <a href="mailto:salesgustavo003@gmail.com">
     <img align="center" alt="Gmail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
   </a>
   <a href="https://wa.me/5533998268519" target="_blank">
-<img align="center" alt="WhatsApp" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">  </a>
-  <!-- Adicione mais ícones conforme necessário -->
+    <img align="center" alt="WhatsApp" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
+  </a>
 </div>
 
+---
 
 <br/>
 
-![Gust4voSS's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavo-security&theme=react-dark)
+![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavo-security&theme=react-dark)
