@@ -1,4 +1,5 @@
-<h1 align="center">Hello World, I'm Gustavo, be very welcome!</h1>
+<h1 align="center">Hello World! I'm Gustavo — Computer Science student with a focus on Cybersecurity & Ethical Hacking. Welcome to my GitHub!
+</h1>
 
 <div align="center">
   <a href="https://github.com/gustavo-security">
