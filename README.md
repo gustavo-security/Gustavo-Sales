@@ -41,4 +41,4 @@
 
 <br/>
 
-![Gustavo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavo-security&theme=react-dark)
+![Gust4voSS's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavo-security&theme=react-dark)
