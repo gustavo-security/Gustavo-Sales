@@ -4,12 +4,17 @@
 
 <div align="center">
   <a href="https://github.com/gustavo-security">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-security&show_icons=true&theme=dark&include_all_commits=true" style="display: inline-block; margin-right: 20px;"/>
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api?username=gustavo-security&show_icons=true&theme=dark&include_all_commits=true" 
+         style="display: inline-block; margin-right: 20px;"/>
   </a>
   <a href="https://github.com/gustavo-security">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-security&layout=compact&langs_count=7&theme=dark" style="display: inline-block;"/>
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-security&layout=compact&langs_count=7&theme=dark" 
+         style="display: inline-block;"/>
   </a>
 </div>
+
 
 
 
