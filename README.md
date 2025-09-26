@@ -5,17 +5,14 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/gustavo-security">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-security&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-      </a>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-security&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <a href="https://github.com/gustavo-security">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-security&layout=compact&langs_count=16&theme=github_dark"/>
-      </a>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-security&layout=compact&langs_count=16&theme=github_dark"/>
     </td>
   </tr>
 </table>
+
 
 
 
