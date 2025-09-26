@@ -2,18 +2,21 @@
   Hello World! I'm Gustavo — Computer Science student with a focus on Cybersecurity & Ethical Hacking. Welcome to my GitHub!
 </h1>
 
-<div align="center">
-  <a href="https://github.com/gustavo-security">
-    <img height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=gustavo-security&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" 
-         style="display: inline-block; margin-right: 15px;"/>
-  </a>
-  <a href="https://github.com/gustavo-security">
-    <img height="180em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-security&layout=compact&langs_count=16&theme=github_dark" 
-         style="display: inline-block;"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/gustavo-security">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-security&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/gustavo-security">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-security&layout=compact&langs_count=16&theme=github_dark"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
