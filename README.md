@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hello World! I'm Gustavo — Computer Science student with a focus on Cybersecurity & Ethical Hacking. Welcome to my GitHub!
+  Hello World! I'm Gustavo — Computer Science student with a focus on Web Developer, Cybersecurity & Ethical Hacking. Welcome to my GitHub!
 </h2>
 
 <div>
